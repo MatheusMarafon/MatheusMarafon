@@ -1,6 +1,5 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://i.imgur.com/5EOyTDQ.png" alt="Banner" width="100%"/>
 </div>
 
 # 👋 Olá! Eu sou o **Matheus Ribeiro Marafon**
