@@ -60,6 +60,4 @@ Gosto de aprender coisas novas, entender como sistemas se conectam e deixar o c�
 
 ![Profile views](https://komarev.com/ghpvc/?username=matheusmarafon&color=2E8B57)
   
-🖤 _Feito com dedicação por [Matheus Ribeiro Marafon](https://github.com/matheusmarafon)_
-
 </div>
