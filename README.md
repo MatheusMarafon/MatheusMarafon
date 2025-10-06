@@ -42,7 +42,7 @@
 ## 🌎 Onde me encontrar
 
 📧 **Email:** [marafonmatheus1@gmail.com](mailto:marafonmatheus1@gmail.com)  
-💼 **LinkedIn:** [Matheus Ribeiro Marafon]((https://www.linkedin.com/in/matheus-ribeiro-marafon-220953286))  
+💼 **LinkedIn:** [Matheus Ribeiro Marafon]([(https://www.linkedin.com/in/matheus-ribeiro-marafon-220953286)](https://www.linkedin.com/in/matheus-ribeiro-marafon-220953286))  
 
 ---
 
