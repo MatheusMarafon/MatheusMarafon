@@ -2,8 +2,7 @@
 <div align="center">
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=💻+Desenvolvedor+versátil+com+experiência+em+automação+de+processos;🚀+Já+atuei+com+Python,+Django,+HTML,+CSS,+JavaScript,+Bootstrap,+VBA,+e+Access;🎯+Busco+sempre+unir+eficiência,+boas+práticas+e+visual+limpo+em+cada+projeto)
-
+💻 Desenvolvedor versátil com experiência em **automação de processos**, **desenvolvimento web**, e **banco de dados**. 🚀 Já atuei com **Python**, **Django**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **VBA**, e **Access**. 🎯 Busco sempre unir eficiência, boas práticas e visual limpo em cada projeto.
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
