@@ -2,7 +2,9 @@
 <div align="center">
 </div>
 
-💻 Desenvolvedor versátil com experiência em **automação de processos**, **desenvolvimento web**, e **banco de dados**. 🚀 Já atuei com **Python**, **Django**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **VBA**, e **Access**. 🎯 Busco sempre unir eficiência, boas práticas e visual limpo em cada projeto.
+💻 Desenvolvedor versátil com experiência em **automação de processos**, **desenvolvimento web**, e **banco de dados**. 
+🚀 Já atuei com **Python**, **Django**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **VBA**, e **Access**. 
+🎯 Busco sempre unir eficiência, boas práticas e visual limpo em cada projeto.
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
