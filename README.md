@@ -23,48 +23,77 @@ class Desenvolvedor:
     
     def trabalho_atual(self):
         return "Automação de processos e desenvolvimento de soluções internas"
-🛠️ Stack Tecnológico
-Backend & Automação
+```
 
-Plaintext
+---
 
+## 🛠️ Stack Tecnológico
+
+**Backend & Automação**
+```text
 Python  ████████████████████░  Django  VBA
-Frontend
+```
 
-Plaintext
-
+**Frontend**
+```text
 JavaScript  ████████████░░░░░░  HTML/CSS  Bootstrap
-Ferramentas & Banco de Dados
+```
 
-Plaintext
-
+**Ferramentas & Banco de Dados**
+```text
 Git  ████████████████████░  MS Access  SQL
-📦 Ver todas as tecnologias
+```
 
-📈 GitHub Analytics
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMatheusMarafon%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26title_color%3D2E8B57%26icon_color%3D2E8B57%26text_color%3Dc9d1d9%26bg_color%3D0d1117" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMatheusMarafon%26layout%3Dcompact%26theme%3Ddark%26title_color%3D2E8B57%26text_color%3Dc9d1d9%26bg_color%3D0d1117" /> </div>
+📦 **Ver todas as tecnologias**
 
-💡 O que eu faço
-🔹 Automação de Processos - Desenvolvo scripts e ferramentas que eliminam tarefas repetitivas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 
-🔹 Desenvolvimento Web - Crio aplicações funcionais com Django e tecnologias front-end
+---
 
-🔹 Soluções Internas - Projeto sistemas que otimizam fluxos de trabalho
+## 📈 GitHub Analytics
 
-🔹 Integração de Dados - Trabalho com bancos de dados e manipulação eficiente de informações
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMarafon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarafon&layout=compact&theme=dark&title_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-🎯 Atualmente
-🔭 Trabalhando com automação de processos empresariais
+---
 
-🌱 Aprimorando conhecimentos em arquitetura de software
+## 💡 O que eu faço
 
-💬 Sempre aberto para discutir sobre Python, Django e boas práticas
+🔹 **Automação de Processos** - Desenvolvo scripts e ferramentas que eliminam tarefas repetitivas  
+🔹 **Desenvolvimento Web** - Crio aplicações funcionais com Django e tecnologias front-end  
+🔹 **Soluções Internas** - Projeto sistemas que otimizam fluxos de trabalho  
+🔹 **Integração de Dados** - Trabalho com bancos de dados e manipulação eficiente de informações
 
-⚡ Curiosidade: Acredito que código elegante é código que outros desenvolvedores conseguem entender rapidamente
+---
 
-📫 Vamos conversar?
+## 🎯 Atualmente
+
+* 🔭 Trabalhando com automação de processos empresariais
+* 🌱 Aprimorando conhecimentos em arquitetura de software
+* 💬 Sempre aberto para discutir sobre Python, Django e boas práticas
+* ⚡ Curiosidade: Acredito que código elegante é código que outros desenvolvedores conseguem entender rapidamente
+
+---
+
+## 📫 Vamos conversar?
+
 Estou sempre aberto a novas ideias, projetos interessantes e oportunidades de colaboração!
 
-📧 Email • 💼 LinkedIn
+**[📧 Email](mailto:marafonmatheus1@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/matheus-ribeiro-marafon-220953286)**
 
-<div align="center"> <i>"A melhor forma de prever o futuro é implementá-lo."</i> </div>
+---
+
+<div align="center">
+  <i>"A melhor forma de prever o futuro é implementá-lo."</i>
+</div>
