@@ -62,13 +62,8 @@ Git  ████████████████████░  MS Access 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMarafon&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide_rank=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarafon&layout=compact&langs_count=6&cache_seconds=1800&title_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
-
-  <img src="https://streak-stats.demolab.com?user=MatheusMarafon&theme=dark&background=0d1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMarafon&theme=github_dark" />
 </div>
->
 
 ---
 
